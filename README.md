@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Silent Script**
 
-- 🌱 I’m currently learning **IOT, Firebase**
+- 🌱 I’m currently learning **IOT**
 
 - 👨‍💻 All of my projects are available at [https://heyy-tamal.github.io/Personal-Portfolio/](https://heyy-tamal.github.io/Personal-Portfolio/)
 
-- 💬 Ask me about **IOT, UI/UX Design, Front-end Development, AI/ML**
+- 💬 Ask me about **IOT, UI/UX Design, Front-end Development, AI/ML, Internet of Things**
 
 - 📫 How to reach me **tamaldolai96@gmail.com**
 
