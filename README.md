@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Silent Script**
 
-- 🌱 I’m currently learning **IOT**
+- 🌱 I’m currently learning **Internet of Things**
 
 - 👨‍💻 All of my projects are available at [https://heyy-tamal.github.io/Personal-Portfolio/](https://heyy-tamal.github.io/Personal-Portfolio/)
 
