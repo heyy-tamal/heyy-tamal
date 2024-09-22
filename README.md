@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyy-tamal" alt="heyy-tamal" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47cu3c7b002frss9twnnl5o76s20u3hh2xzru6lc9z&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
 
 - 🔭 I’m currently working on **Silent Script**
 
