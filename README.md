@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Tamal Dolai</h1>
-<h3 align="center">An aspiring Software Developer / Data Analyst / UI Designer from India</h3>
+<h3 align="center">An aspiring Software Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyy-tamal&label=Profile%20views&color=0e75b6&style=flat" alt="heyy-tamal" /> </p>
@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
 
-- 🔭 I’m currently working on **Silent Script**
+- 🔭 I’m currently working on **Casino type games building**
 
-- 🌱 I’m currently learning **Internet of Things**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://heyy-tamal.github.io/Personal-Portfolio/](https://heyy-tamal.github.io/Personal-Portfolio/)
 
