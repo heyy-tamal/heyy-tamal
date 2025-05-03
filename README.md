@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyy-tamal" alt="heyy-tamal" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw](https://pngtree.com/free-png-vectors/game-development)">
 
 - 🔭 I’m currently working on **Casino type games building**
 
