@@ -141,3 +141,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyy-tamal&show_icons=true&locale=en" alt="heyy-tamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyy-tamal&" alt="heyy-tamal" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
