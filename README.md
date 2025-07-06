@@ -143,5 +143,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyy-tamal&" alt="heyy-tamal" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Catch you later!&height=100&section=footer"/>
 </p>
